@@ -1,0 +1,10 @@
+"D:\Clion-2024.1\Clion\CLion 2024.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Clion-2024.1/Clion/CLion 2024.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\CProjectDmo\vshack\hacklearn -B D:\CProjectDmo\vshack\hacklearn\cmake-build-debug
+-- The C compiler identification is MSVC 19.40.33811.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.40.33807/bin/Hostx86/x86/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (1.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/CProjectDmo/vshack/hacklearn/cmake-build-debug
